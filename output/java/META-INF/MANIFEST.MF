@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Class-Path: library/tomcat-embed-core-8.5.31.jar library/tomcat-embed-
+ el-8.5.31.jar library/spring-expression-5.0.6.RELEASE.jar library/spr
+ ing-web-5.0.6.RELEASE.jar library/spring-boot-starter-logging-2.0.2.R
+ ELEASE.jar library/spring-boot-autoconfigure-2.0.2.RELEASE.jar librar
+ y/spring-core-5.0.6.RELEASE.jar library/spring-boot-starter-web-2.0.2
+ .RELEASE.jar library/spring-webmvc-5.0.6.RELEASE.jar library/jackson-
+ datatype-jsr310-2.9.5.jar library/spring-boot-2.0.2.RELEASE.jar libra
+ ry/spring-boot-starter-2.0.2.RELEASE.jar library/sqlite-jdbc-3.23.1.j
+ ar library/jackson-module-parameter-names-2.9.5.jar library/jackson-d
+ atabind-2.9.5.jar library/validation-api-2.0.1.Final.jar library/jul-
+ to-slf4j-1.7.25.jar library/spring-boot-starter-json-2.0.2.RELEASE.ja
+ r library/spring-beans-5.0.6.RELEASE.jar library/log4j-to-slf4j-2.10.
+ 0.jar library/jboss-logging-3.3.2.Final.jar library/classmate-1.3.4.j
+ ar library/spring-boot-starter-tomcat-2.0.2.RELEASE.jar library/tomca
+ t-embed-websocket-8.5.31.jar library/spring-context-5.0.6.RELEASE.jar
+  library/jackson-datatype-jdk8-2.9.5.jar library/slf4j-api-1.7.25.jar
+  library/logback-classic-1.2.3.jar library/spring-aop-5.0.6.RELEASE.j
+ ar library/spring-jcl-5.0.6.RELEASE.jar library/snakeyaml-1.19.jar li
+ brary/jackson-annotations-2.9.0.jar library/fastjson-1.2.46.jar libra
+ ry/logback-core-1.2.3.jar library/javax.annotation-api-1.3.2.jar libr
+ ary/log4j-api-2.10.0.jar library/jackson-core-2.9.5.jar library/hiber
+ nate-validator-6.0.9.Final.jar
+Main-Class: main.Application
+

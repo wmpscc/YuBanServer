@@ -1,0 +1,2 @@
+java -Xbootclasspath/a:sqlite-jdbc-3.23.1.jar -jar YuBanServer-1.0-SNAPSHOT.jar 
+
